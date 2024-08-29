@@ -12,8 +12,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **⚡ Fun Fact:** I enjoy exploring new programming languages and tackling complex coding challenges in my free time!
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, SQL, HTML/CSS , C++/C , Kotlin, Java
+- **Languages:** JavaScript, Python, SQL, HTML/CSS, C++/C, Kotlin, Java
 - **Frameworks/Libraries:** React, Tailwind CSS, Express.js
 - **Databases:** MySQL, MongoDB
-- **Tools:** VS Code, Eclipse
+- **Tools:** VS Code, Eclipse, Android Studio
 
