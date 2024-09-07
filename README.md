@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **👀 Interests:** Technology, software development, and networking.
 - **🌱 Currently Learning:** Web development, mobile app development, and database management.
 - **💞️ Looking to Collaborate On:** Open-source projects in web development and mobile apps.
-- **📫 How to Reach Me:** [Liyanagesupun10@gmail]
+- **📫 How to Reach Me:** [Liyanagesupun10@gmail.com]
 )
 - **😄 Pronouns:** He/Him
 - **⚡ Fun Fact:** I enjoy exploring new programming languages and tackling complex coding challenges in my free time!
