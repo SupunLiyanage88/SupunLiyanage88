@@ -11,9 +11,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **😄 Pronouns:** He/Him
 - **⚡ Fun Fact:** I enjoy exploring new programming languages and tackling complex coding challenges in my free time!
 
-Languages and Tools:
-android bootstrap c cplusplus css3 express figma firebase git html5 java javascript kotlin linux mongodb mssql mysql nodejs photoshop php postman python react tailwind flutter Spring Boot
-
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, SQL, HTML/CSS, C++/C, Kotlin, Java
 - **Frameworks/Libraries:** React, Tailwind CSS, Express.js
