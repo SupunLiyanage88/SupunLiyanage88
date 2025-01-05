@@ -1,18 +1,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Supun;" alt="Typing SVG" />
-</h1>
-<p align="center">
-    <a href="https://github.com/SupunLiyanage88?tab=repositories">
-        <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SupunLiyanage88&theme=tokyonight"/>
-    </a>
-</p>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunLiyanage88&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=SupunLiyanage88&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
+## 🌟 About Me  
+
+👀 Interests:        Technology | Software Development | Networking  
+🌱 Currently Learning: Web Development | Mobile App Development | Database Management  
+💞️ Collaboration:    Open-source Projects (Web & Mobile Apps)  
+😄 Pronouns:         He/Him  
+⚡ Fun Fact:          I enjoy exploring new programming languages and tackling complex coding challenges!  
+
 
 ## 🎯 Quick Overview
 - 🔭 Currently working on **Web & Mobile Development Projects**
@@ -20,6 +16,14 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💡 Interested in **Technology, Software Development, and Networking**
 - 📫 Reach me at: **liyanagesupun10@gmail.com**
+
+</h1>
+<p align="center">
+    <a href="https://github.com/SupunLiyanage88?tab=repositories">
+        <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SupunLiyanage88&theme=tokyonight"/>
+    </a>
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -50,6 +54,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SupunLiyanage88&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunLiyanage88&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunLiyanage88&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=SupunLiyanage88&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
 
 <div align="center">
