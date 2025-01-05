@@ -4,6 +4,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2ED573&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <details>
+    <summary>🤔 Fun Facts About Programming</summary>
+    <br>
+    <p align="left">
+      • The term "bug" originated from an actual moth found in a computer in 1947! 🦋<br>
+      • "Hello, World!" made its debut in a 1972 C programming book 👋<br>
+      • Ada Lovelace is known as the world's first computer programmer 👩‍💻<br>
+      • Java was initially named "Oak" but got renamed after coffee ☕<br>
+      • Git was created by Linus Torvalds in just a few days! 🚀<br>
+      • The "404" error gets its name from a room at CERN 🚪<br>
+      • Firefox has a hidden Easter egg triggered by "about:mozilla" 🦊<br>
+      • Ruby, Python, and Perl were named after real-world objects 💎<br>
+      • The first AI program was written in the 1950s to play checkers 🎮<br>
+      • The longest code comment ever written spans over 12,000 words 📝
+    </p>
+  </details>
+</div>
+
 ## 🎯 Quick Overview
 - 🔭 Currently working on **Web & Mobile Development Projects**
 - 🌱 Learning **Advanced Web Technologies & Database Management**
