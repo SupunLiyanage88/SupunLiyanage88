@@ -1,5 +1,17 @@
 # 👋 Hi, I'm Supun Liyanage
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Supun;A+Software+Developer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+</h1>
+<p align="center">
+    <a href="https://github.com/SupunLiyanage88?tab=repositories">
+        <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SupunLiyanage88&theme=tokyonight"/>
+    </a>
+</p>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunLiyanage88&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
 ## 🎯 Quick Overview
 - 🔭 Currently working on **Web & Mobile Development Projects**
 - 🌱 Learning **Advanced Web Technologies & Database Management**
