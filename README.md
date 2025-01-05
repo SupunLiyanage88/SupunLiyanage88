@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Supun Liyanage
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=SupunLiyanage88&color=brightgreen)](https://github.com/SupunLiyanage88)
-[![GitHub followers](https://img.shields.io/github/followers/SupunLiyanage88?style=social)](https://github.com/SupunLiyanage88)
-[![GitHub stars](https://img.shields.io/github/stars/SupunLiyanage88?style=social)](https://github.com/SupunLiyanage88)
+[![Profile views](https://komarev.com/ghpvc/?username=SupunLiyanage88&color=brightgreen&label=Profile%20views)](https://github.com/SupunLiyanage88)
+[![Followers](https://img.shields.io/github/followers/SupunLiyanage88?label=Followers&style=social)](https://github.com/SupunLiyanage88)
+[![Stars](https://img.shields.io/github/stars/SupunLiyanage88?label=Stars&style=social)](https://github.com/SupunLiyanage88)
 
 ## 🚀 About Me
-```typescript
+```ts
 const supun = {
     role: "Software Developer",
     interests: [
         "Technology",
         "Software Development",
-        "Networking"
+        "Networking",
     ],
     currentlyLearning: [
         "Web Development",
         "Mobile Apps",
-        "Database Management"
+        "Database Management",
     ],
     pronouns: "He/Him",
     funFact: "I enjoy exploring new programming languages and tackling complex coding challenges!"
-};
+} as const;
 ```
 
 ## 🛠️ Tech Stack
