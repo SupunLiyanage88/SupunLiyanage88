@@ -1,27 +1,52 @@
 # 👋 Hi, I'm Supun Liyanage
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2ED573&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+import { useState, useEffect } from 'react';
 
-<div align="center">
-  <details>
-    <summary>🤔 Fun Facts About Programming</summary>
-    <br>
-    <p align="left">
-      • The term "bug" originated from an actual moth found in a computer in 1947! 🦋<br>
-      • "Hello, World!" made its debut in a 1972 C programming book 👋<br>
-      • Ada Lovelace is known as the world's first computer programmer 👩‍💻<br>
-      • Java was initially named "Oak" but got renamed after coffee ☕<br>
-      • Git was created by Linus Torvalds in just a few days! 🚀<br>
-      • The "404" error gets its name from a room at CERN 🚪<br>
-      • Firefox has a hidden Easter egg triggered by "about:mozilla" 🦊<br>
-      • Ruby, Python, and Perl were named after real-world objects 💎<br>
-      • The first AI program was written in the 1950s to play checkers 🎮<br>
-      • The longest code comment ever written spans over 12,000 words 📝
-    </p>
-  </details>
-</div>
+const RotatingFacts = () => {
+  const facts = [
+    '"Hello, World!" was first used in a 1972 C programming book.',
+    'Ada Lovelace is considered the world\'s first computer programmer.',
+    'The longest code comment ever is over 12,000 words long.',
+    'Java was originally called "Oak," but was renamed after coffee.',
+    'Firefox has an Easter egg that can be triggered with "about:mozilla."',
+    'The "404" error page is named after a room at CERN.',
+    'Git was created by Linus Torvalds in just a few days.',
+    'Ruby, Python, and Perl are named after real-world objects.',
+    'The first AI program was written in the 1950s for checkers.'
+  ];
+
+  const [currentFactIndex, setCurrentFactIndex] = useState(0);
+  const [isVisible, setIsVisible] = useState(true);
+
+  useEffect(() => {
+    const intervalId = setInterval(() => {
+      setIsVisible(false);
+      setTimeout(() => {
+        setCurrentFactIndex((prevIndex) => (prevIndex + 1) % facts.length);
+        setIsVisible(true);
+      }, 500); // Wait for fade out before changing fact
+    }, 5000); // Change fact every 5 seconds
+
+    return () => clearInterval(intervalId);
+  }, []);
+
+  return (
+    <div className="max-w-2xl mx-auto p-6 bg-gray-800 rounded-lg shadow-lg">
+      <h2 className="text-2xl font-bold mb-4 text-emerald-400">🤔 Did You Know?</h2>
+      <div className="min-h-[100px] flex items-center justify-center">
+        <p
+          className={`text-lg text-white text-center transition-opacity duration-500 ${
+            isVisible ? 'opacity-100' : 'opacity-0'
+          }`}
+        >
+          {facts[currentFactIndex]}
+        </p>
+      </div>
+    </div>
+  );
+};
+
+export default RotatingFacts;
 
 ## 🎯 Quick Overview
 - 🔭 Currently working on **Web & Mobile Development Projects**
