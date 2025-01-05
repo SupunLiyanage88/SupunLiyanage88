@@ -4,7 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/SupunLiyanage88?style=social)](https://github.com/SupunLiyanage88)
 
 ## 🚀 About Me
-```typescript
 const supun = {
     role: "Software Developer",
     interests: ["Technology", "Software Development", "Networking"],
@@ -12,7 +11,6 @@ const supun = {
     pronouns: "He/Him",
     funFact: "I enjoy exploring new programming languages and tackling complex coding challenges!"
 };
-```
 
 ## 🛠️ Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
