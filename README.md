@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Supun Liyanage
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Supun;A+Software+Developer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Supun;" alt="Typing SVG" />
 </h1>
 <p align="center">
     <a href="https://github.com/SupunLiyanage88?tab=repositories">
@@ -10,6 +8,10 @@
 </p>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunLiyanage88&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=SupunLiyanage88&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
 
 ## 🎯 Quick Overview
