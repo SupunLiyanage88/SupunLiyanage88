@@ -57,10 +57,6 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunLiyanage88&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
     <img src="https://komarev.com/ghpvc/?username=SupunLiyanage88&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
 
