@@ -6,7 +6,6 @@
 👀 Interests:        Technology | Software Development | Networking  
 🌱 Currently Learning: Web Development | Mobile App Development | Database Management  
 💞️ Collaboration:    Open-source Projects (Web & Mobile Apps)  
-😄 Pronouns:         He/Him  
 ⚡ Fun Fact:          I enjoy exploring new programming languages and tackling complex coding challenges!  
 
 
