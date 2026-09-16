@@ -72,10 +72,8 @@ The platform for Ascendant League Season 1, a Sri Lankan MLBB tournament. Covers
 
 [Explore my contributions and repositories →](https://github.com/SupunLiyanage88?tab=overview)
 
-<details>
 <summary>View GitHub stats</summary>
 
-<br />
 
 <div align="center">
 
@@ -85,7 +83,6 @@ The platform for Ascendant League Season 1, a Sri Lankan MLBB tournament. Covers
 
 </div>
 
-</details>
 
 ---
 
