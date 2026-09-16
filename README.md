@@ -1,20 +1,20 @@
 <div align="center">
 
-![Supun Liyanage — Associate Software Engineer · iOS Developer](./assets/profile-banner.svg)
+[![Supun Liyanage — Passion Beyond Code · Associate Software Engineer & iOS Developer](./assets/profile-banner.svg)](https://www.supunliyanage.dev/)
 
 I build user-focused products for **web and mobile**, with a growing focus on **AI-assisted tools**.
 
 Sri Lanka · BSc (Hons) IT — Software Engineering, SLIIT
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white)](https://www.supunliyanage.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-liyanage-600790223)
-[![Email](https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liyanagesupun10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-080808?style=for-the-badge&logo=safari&logoColor=white)](https://www.supunliyanage.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-liyanage-600790223)
+[![Email](https://img.shields.io/badge/Email-080808?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liyanagesupun10@gmail.com)
 
 [Projects](#selected-projects) · [Tech stack](#tech-stack) · [GitHub activity](#github-activity)
 
 </div>
 
-## A little about me
+## About me
 
 I work across the stack, from React and Next.js interfaces to Node.js and Spring Boot APIs, alongside native mobile development with SwiftUI and Kotlin. I care about clean architecture, secure APIs, and software that feels straightforward to use.
 
@@ -79,9 +79,9 @@ The platform for Ascendant League Season 1, a Sri Lankan MLBB tournament. Covers
 
 <div align="center">
 
-![Supun's public GitHub statistics](https://github-stats-extended.vercel.app/api?username=SupunLiyanage88&show_icons=true&theme=github_dark&hide_border=true&title_color=5EEAD4&icon_color=5EEAD4)
+![Supun's public GitHub statistics](https://github-stats-extended.vercel.app/api?username=SupunLiyanage88&show_icons=true&theme=github_dark&hide_border=true&bg_color=080808&title_color=FAFAFA&text_color=A1A1A1&icon_color=FAFAFA)
 
-![Supun's GitHub contribution streak](https://streak-stats.demolab.com?user=SupunLiyanage88&theme=github-dark&hide_border=true)
+![Supun's GitHub contribution streak](https://streak-stats.demolab.com?user=SupunLiyanage88&theme=github-dark&hide_border=true&background=080808&ring=FAFAFA&fire=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=A1A1A1&dates=A1A1A1)
 
 </div>
 
